@@ -1,0 +1,70 @@
+.Virus {
+    border: 2px solid white;
+    color: white;
+    background: #000000 !important;
+}
+
+#Virus {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50px, -100px);
+}
+
+#Virus:hover {
+    transform: translate(-50px, -100px) scale(1.15, 1.15);
+}
+
+#Infectivity {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50px, 50px);
+}
+
+#Infectivity:hover {
+    transform: translate(-50px, 50px) scale(1.15, 1.15);
+}
+
+#Severity {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(79.9038px, -175px);
+}
+
+#Severity:hover {
+    transform: translate(79.9038px, -175px) scale(1.15, 1.15);
+}
+
+#Variability {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-179.9038px, -175px);
+}
+
+#Variability:hover {
+    transform: translate(-179.9038px, -175px) scale(1.15, 1.15);
+}
+
+#Tech {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50px, -250px);
+}
+
+#Tech:hover {
+    transform: translate(-50px, -250px) scale(1.15, 1.15);
+}
