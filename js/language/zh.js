@@ -129,7 +129,7 @@ export const zh = {
                 Display: `<h3>【CB25】交通技术</h3></h3><br>Lv. {{Amount1}}<br><br>每级使【CB11 住所】的基础效果 ×{{Amount2}}<br><br>总效果：×{{Amount3}}<br>{{Text}}`,
                 Level: {
                     0: `0`,
-                    1: `1 畜力`,
+                    1: `1 测试`,
                     2: `2 轮子`,
                     3: `3 帆船`,
                     4: `4 蒸汽机车`,
